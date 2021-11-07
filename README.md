@@ -7,7 +7,7 @@
 ## Life of Coders
 ```javascript
 let life = true;
-while(life){
+while(life) {
     console.log("Write Code")
 }
 else {
@@ -62,6 +62,10 @@ else {
 <!-- Github Stats -->
 <img alt="mishu-mnp Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishu-mnp&show_icons=true&hide_border=true">
 
+<br>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=mishu-mnp" alt="mishu-mnp profile views" />
 
 
 
