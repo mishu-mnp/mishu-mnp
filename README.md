@@ -3,6 +3,7 @@
 ## Hi Coders, I'm Vaibhav - aka Mishu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I like to Code a lot and want to make my life as a Fullstack Web Developer and happy to contribute in your projects
 
+
 ## Life of Coders
 ```javascript
 let life = true;
@@ -52,7 +53,11 @@ else {
     </a>
 </div>
 
-<hr>
 
 <!-- Github Stats -->
-[![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=mishu-mnp)](https://github.com/mishu-mnp/github-readme-stats)
+<div style="margin-top: 50px">
+    <img alt="mishu-mnp Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishu-mnp&show_icons=true&hide_border=true">
+</div>
+
+
+
