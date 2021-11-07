@@ -1,7 +1,7 @@
-## Let's make our coding world 👨‍💻
+## Let's make our own Coding World 👨‍💻
 
 ## Hi Coders, I'm Vaibhav - aka Mishu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I like to Code a lot and want to make my life as a Fullstack Web Developer and happy to contribute in your projects
+### I like to Code a lot and want to make my life as a **_Fullstack Web Developer_** and happy to contribute in your projects
 
 
 ## Life of Coders
@@ -15,8 +15,9 @@ else {
 }
 ```
 
-## I'm a Student 👨‍🎓 and Web Developer 👨‍💻 !!!
-- 🚴‍♂️ Loves Cycling
+
+## I'm a Student 👨‍🎓 | Web Developer 👨‍💻 !!!
+- 🚴‍♂️ Loves Cycling 
 - 👨‍💻 Loves to Code 
 - 🌱 I'm currently learning everything to build up my skills 🤪
 - 👯 I’m looking to collaborate with other developers
@@ -41,23 +42,26 @@ else {
 
 
 ### Connect with me:
-<div>
-    <a href="https://www.linkedin.com/in/vaibhav-mishra-6a83771b5/" target="_blank"> 
-    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://www.instagram.com/mishu_mnp_lover" target="_blank"> 
-    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-    </a>
-    <a href="https://t.me/mishu_mnp_lover" target="_blank"> 
-    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
-    </a>
-</div>
+<p>
+<a href="https://www.linkedin.com/in/vaibhav-mishra-6a83771b5/" target="_blank"> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mishu_mnp_lover" target="_blank"> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+<a href="https://t.me/mishu_mnp_lover" target="_blank"> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+</a>
+</p>
+<br>
+<br>
 
+<hr>
+<br>
 
 <!-- Github Stats -->
-<div style="margin-top: 50px">
-    <img alt="mishu-mnp Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishu-mnp&show_icons=true&hide_border=true">
-</div>
+<img alt="mishu-mnp Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishu-mnp&show_icons=true&hide_border=true">
+
 
 
 
