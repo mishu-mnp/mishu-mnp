@@ -3,8 +3,9 @@
 ## Hi Coders, I'm Vaibhav - aka Mishu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I like to Code a lot and want to make my life as a Fullstack Web Developer and happy to contribute in your projects
 
-## Life 
+## Life of Coders
 ```javascript
+let life = true;
 while(life){
     console.log("Write Code")
 }
@@ -38,20 +39,20 @@ else {
 </p>
 
 
-
 ### Connect with me:
-<p>
-<a href="https://www.linkedin.com/in/vaibhav-mishra-6a83771b5/" target="_blank"> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div>
+    <a href="https://www.linkedin.com/in/vaibhav-mishra-6a83771b5/" target="_blank"> 
+    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://www.instagram.com/mishu_mnp_lover" target="_blank"> 
+    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+    </a>
+    <a href="https://t.me/mishu_mnp_lover" target="_blank"> 
+    <img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+    </a>
+</div>
 
-<a href="https://www.instagram.com/mishu_mnp_lover" target="_blank"> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-</a>
+<hr>
 
-<a href="https://t.me/mishu_mnp_lover" target="_blank"> 
-<img align="left" alt="codeSTACKr | LinkedIn" width="30px" style="margin: 5px 8px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
-</a>
-
-</p>
-
+<!-- Github Stats -->
+[![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=mishu-mnp)](https://github.com/mishu-mnp/github-readme-stats)
