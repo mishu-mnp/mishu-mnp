@@ -1,3 +1,9 @@
+<!-- Gif -->
+<p align="center">
+<img  style="border-radius: 15px" src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="50%"/>
+</p>
+
+
 ## Let's make our own Coding World 👨‍💻
 
 ## Hi Coders, I'm Vaibhav - aka Mishu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -70,4 +76,4 @@ else {
 <img src="https://komarev.com/ghpvc/?username=mishu-mnp" alt="mishu-mnp profile views" />
 
 
-
+<!-- ctrl + shift + v  (to preview README) -->
